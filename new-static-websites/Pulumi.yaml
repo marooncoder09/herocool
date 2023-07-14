@@ -1,0 +1,6 @@
+name: myproject
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: A clone of heroku where user can host their webiste over the aws
